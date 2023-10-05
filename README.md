@@ -92,10 +92,9 @@ BlackStack is a series of Ruby libraries (gems) where my.saas is built on.
 3. [Core](https://github.com/leandrosardi/blackstack-core)
 4. [Nodes](https://github.com/leandrosardi/blackstack-nodes)
 5. [Deployer](https://github.com/leandrosardi/my-ruby-deployer)
-6. [Monitoring](https://github.com/leandrosardi/simple_host_monitoring)
-7. [Pampa](https://github.com/leandrosardi/pampa)
-8. [My DropBox API](https://github.com/leandrosardi/pampa)
-9. [CSV Indexer](https://github.com/leandrosardi/csv-indexer)
+6. [Pampa](https://github.com/leandrosardi/pampa)
+7. [My DropBox API](https://github.com/leandrosardi/pampa)
+8. [CSV Indexer](https://github.com/leandrosardi/csv-indexer)
 
 ### Level 3: My.SaaS Framework
 
