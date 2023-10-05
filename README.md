@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues/leandrosardi/bootcamp) ![GitHub](https://img.shields.io/github/license/leandrosardi/bootcamp) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/leandrosardi/bootcamp) ![GitHub last commit](https://img.shields.io/github/last-commit/leandrosardi/bootcamp)
+
 # bootcamp
 
 This repository is a training program for any developer who wants to start working on [my.saas](https://github.com/leandrosardi/my.saas) projects.
@@ -88,15 +90,16 @@ BlackStack is a series of Ruby libraries (gems) where my.saas is built on.
 3. [Core](https://github.com/leandrosardi/blackstack-core)
 4. [Nodes](https://github.com/leandrosardi/blackstack-nodes)
 5. [Deployer](https://github.com/leandrosardi/my-ruby-deployer)
-simple_cloud_logging)
 6. [Monitoring](https://github.com/leandrosardi/simple_host_monitoring)
 7. [Pampa](https://github.com/leandrosardi/pampa)
 8. [My DropBox API](https://github.com/leandrosardi/pampa)
-9. [CSV Indexer]()
+9. [CSV Indexer](https://github.com/leandrosardi/csv-indexer)
 
 ### Level 3: My.SaaS Framework
 
 The goal of this thirth training is that you create a SaaS product using my.saas framework an all its extensions.
 
-
-
+1. [My.SaaS Tutorial](https://github.com/leandrosardi/mysaas)
+2. [Invoicing and Payments Processing](https://github.com/leandrosardi/i2p)
+3. [Monitoring](https://github.com/leandrosardi/monitoring)
+4. [Content](https://github.com/leandrosardi/content)
