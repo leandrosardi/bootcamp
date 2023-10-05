@@ -68,6 +68,8 @@ Note that each tutorial is composed by many pages as is shown in the picture bel
 
 ![Tutorial Pages](/img/tutorial-pages.png)
 
+Here is your clue:
+
 1. [HTML](https://www.w3schools.com/html/default.asp)
 2. [CSS](https://www.w3schools.com/css/default.asp)
 3. [JavaScript](https://www.w3schools.com/js/default.asp)
