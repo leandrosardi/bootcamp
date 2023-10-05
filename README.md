@@ -100,7 +100,7 @@ BlackStack is a series of Ruby libraries (gems) where my.saas is built on.
 
 The goal of this thirth training is that you create a SaaS product using my.saas framework an all its extensions.
 
-1. [My.SaaS Tutorial](https://github.com/leandrosardi/mysaas)
+1. [My.SaaS Tutorial](https://github.com/leandrosardi/my.saas)
 2. [Invoicing and Payments Processing](https://github.com/leandrosardi/i2p)
 3. [Monitoring](https://github.com/leandrosardi/monitoring)
 4. [Content](https://github.com/leandrosardi/content)
