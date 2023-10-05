@@ -12,7 +12,7 @@ This training program is assuming that you already dominate the following techno
 
 ## 1. Learning Method
 
-**Creating Your GitHub Repository**
+### 1.1. Creating Your GitHub Repository
 
 First, you need your own repository where you will submit all the exercises that you will perform during this training.
 So,
@@ -29,7 +29,7 @@ cd ~/code
 git clone https://github.com/<your github username>/bootcamp
 ```
 
-**Signing Up into Free Learning Platforms**
+### 1.2. Signing Up into Free Learning Platforms
 
 Signup to some platforms providing tutorials and where you can follow your progress there.
 
@@ -44,7 +44,7 @@ So,
 2. Signup into .... _(pending to find another tutorial for Ruby)_
 
 
-**Performing Examples**
+### 1.3. Performing Examples
 
 Throughout the tutorials, examples will appear, as shown in the image below.
 
@@ -56,7 +56,7 @@ We recommend you to create one file into your fork of this repository, inside th
 
 ## 2. Training Program
 
-**Level 1: Fundamentals**
+### Level 1: Fundamentals
 
 The goal of this first training is that you dominate the technonogies where my.saas is built on.
 
@@ -73,24 +73,28 @@ Note that each tutorial is composed by many pages as is shown in the picture bel
 4. [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)
 5. [JQuery](https://www.w3schools.com/jquery/default.asp)
 6. [PostgreSQL](https://www.w3schools.com/postgresql/index.php)
-7. [Ruby]()
-8. [Sequel]()
+7. [Ruby](https://www.tutorialspoint.com/ruby)
+8. [Sinatra](https://dev.to/alexmercedcoder/ruby-sinatra-with-postgres-using-sequel-36ji)
+9. [Sequel](https://github.com/jeremyevans/sequel)
 
-**Level 2: BlackStack Framework**
+### Level 2: BlackStack Framework
 
 The goal of this second training is that you dominate **BlackStack**. 
 
 BlackStack is a series of Ruby libraries (gems) where my.saas is built on.
 
-- BlackStack Core
-- Simple Command Line Parser
-- Simple Cloud Logging
-- Pampa
-- My DropBox API
-- BlackStack Nodes
-- CSV Indexer
+1. [Simple Command Line Parser](https://github.com/leandrosardi/simple_command_line_parser)
+2. [Simple Cloud Logging](https://github.com/leandrosardi/simple_cloud_logging)
+3. [Core](https://github.com/leandrosardi/blackstack-core)
+4. [Nodes](https://github.com/leandrosardi/blackstack-nodes)
+5. [Deployer](https://github.com/leandrosardi/my-ruby-deployer)
+simple_cloud_logging)
+6. [Monitoring](https://github.com/leandrosardi/simple_host_monitoring)
+7. [Pampa](https://github.com/leandrosardi/pampa)
+8. [My DropBox API](https://github.com/leandrosardi/pampa)
+9. [CSV Indexer]()
 
-**Level 3: My.SaaS Framework**
+### Level 3: My.SaaS Framework
 
 The goal of this thirth training is that you create a SaaS product using my.saas framework an all its extensions.
 
