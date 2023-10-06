@@ -92,7 +92,7 @@ BlackStack is a series of Ruby libraries (gems) where my.saas is built on.
 3. [Core](https://github.com/leandrosardi/blackstack-core)
 4. [Nodes](https://github.com/leandrosardi/blackstack-nodes)
 5. [Deployer](https://github.com/leandrosardi/my-ruby-deployer)
-6. [Pampa](https://github.com/leandrosardi/pampa)
+6. [Pampa](https://github.com/leandrosardi/pampa) _<--- Documentation needs review_
 7. [My DropBox API](https://github.com/leandrosardi/my-dropbox-api)
 8. [CSV Indexer](https://github.com/leandrosardi/csv-indexer)
 
@@ -100,7 +100,7 @@ BlackStack is a series of Ruby libraries (gems) where my.saas is built on.
 
 The goal of this thirth training is that you create a SaaS product using my.saas framework an all its extensions.
 
-1. [My.SaaS Tutorial](https://github.com/leandrosardi/my.saas)
-2. [Invoicing and Payments Processing](https://github.com/leandrosardi/i2p)
-3. [Monitoring](https://github.com/leandrosardi/monitoring)
-4. [Content](https://github.com/leandrosardi/content)
+1. [My.SaaS Tutorial](https://github.com/leandrosardi/my.saas) _<--- Documentation needs review_
+2. [Invoicing and Payments Processing](https://github.com/leandrosardi/i2p) _<--- Documentation needs review_
+3. [Monitoring](https://github.com/leandrosardi/monitoring) _<--- Documentation needs review_
+4. [Content](https://github.com/leandrosardi/content) _<--- Documentation needs review_
